@@ -1,15 +1,13 @@
- Hi, I'm Barış! 👋 
+<div align="center">
+
+# Hi 👋🏼 I'm Barış
 
 ### Artificial Intelligence Engineer | AI Systems Architect
-I specialize in building **Agentic Workflows**—moving beyond simple chatbots to create autonomous reasoning engines that solve real-world business problems.
 
----
+</div>
 
-### 🎓 Education
-- BSc Computer Science (AI and Machine Learning)
-  *University of London*
-
-### 🛠️ Expertise
-- **Agentic Design:** Multi-agent orchestration, "Zoom-In" search strategies, and autonomous pipelines.
-- **LLM Integration:** Advanced prompt engineering (Claude, Gemini, GPT-4o), structured outputs, and failover logic.
-- **Backend Architecture:** FastAPI, Uvicorn, and Python-based AI infrastructure.
+- 👀 I’m interested in **agentic workflows**, **autonomous lead generation**, and **LLM orchestration**.
+- 🌱 I’m currently building **autonomous reasoning engines** and **AI-driven pipelines**.
+- 🎓 BSc Computer Science (AI and Machine Learning) at the **University of London**, United Kingdom.
+- 🥑 Check out my portfolio website at [bariseryuz.com](https://bariseryuz.com)
+- 📫 You can contact me via email: [your-email@example.com](mailto:your-email@example.com)
