@@ -1,16 +1,15 @@
-## Hi there 👋
+ Hi, I'm Barış! 👋 
 
-<!--
-**bariseryuz/bariseryuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Artificial Intelligence Engineer | AI Systems Architect
+I specialize in building **Agentic Workflows**—moving beyond simple chatbots to create autonomous reasoning engines that solve real-world business problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎓 Education
+- BSc Computer Science (AI and Machine Learning)
+  *University of London*
+
+### 🛠️ Expertise
+- **Agentic Design:** Multi-agent orchestration, "Zoom-In" search strategies, and autonomous pipelines.
+- **LLM Integration:** Advanced prompt engineering (Claude, Gemini, GPT-4o), structured outputs, and failover logic.
+- **Backend Architecture:** FastAPI, Uvicorn, and Python-based AI infrastructure.
